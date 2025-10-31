@@ -249,6 +249,14 @@
             margin-top: 40px;
         }
 
+        .feature-card:nth-child(4) {
+            grid-column: 1 / 2;
+        }
+
+        .feature-card:nth-child(5) {
+            grid-column: 2 / 3;
+        }
+            
         .feature-card {
             background: white;
             padding: 40px;
